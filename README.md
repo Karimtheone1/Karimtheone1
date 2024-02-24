@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Karimtheone1
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning on the odin project
+-  I’m interested in coding 
+-  I’m currently learning on the odin project
 -  you can reach me on my email karimzaydan00@gmail.com
+-  hope you are having a great day
 
 <!---
 Karimtheone1/Karimtheone1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
